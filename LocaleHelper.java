@@ -1,4 +1,4 @@
-package com.pinoffer.utils;
+package com.github.mhelmi.utils;
 
 import android.annotation.TargetApi;
 import android.content.Context;
