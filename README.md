@@ -1,2 +1,2 @@
 # LocaleHelper
-Simple helper class help android developers to make there app localization easily 
+Simple helper class help android developers to change there app localization easily
